@@ -18,13 +18,12 @@ My primary focus is **Machine Learning Systems** and **DSA**. I enjoy understand
 </p>
 
 ### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-Raj&show_icons=true&theme=radical&hide_border=true" alt="Akshat's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Raj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+![Akshat's Stats](https://github-readme-stats.vercel.app/api?username=Akshat-Raj&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Raj&layout=compact&theme=radical&hide_border=true)
 
 ### 📫 Connect
-- **Problem Solving:** Active on [Codeforces](https://codeforces.com/) & LeetCode.
+- **Problem Solving:** Active on [LeetCode](https://leetcode.com/u/FLzyoCR6KG/).
+- **LinkedIn:** [Akshat Raj](https://www.linkedin.com/in/akshat-raj-1b7745310/)
 - **Collaboration:** I'm always open to discussing ML infrastructure and open-source development. Feel free to reach out!
 
 ---
