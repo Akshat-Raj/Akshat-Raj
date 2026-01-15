@@ -12,7 +12,7 @@ My primary focus is **Machine Learning Systems** and **DSA**. I enjoy understand
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Python%20%7C%" alt="Languages" />
+  <img src="https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Python-blue?style=for-the-badge" alt="Languages" />
   <img src="https://img.shields.io/badge/ML-PyTorch%20%7C%20NumPy%20%7C%20DeepChem-orange?style=for-the-badge" alt="ML" />
   <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Linux%20%7C%20Vim-lightgrey?style=for-the-badge" alt="Tools" />
 </p>
