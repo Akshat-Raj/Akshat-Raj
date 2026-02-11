@@ -13,7 +13,6 @@ My primary focus is **Machine Learning Systems** and **DSA**. I enjoy understand
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Python-blue?style=for-the-badge" alt="Languages" />
-  <img src="https://img.shields.io/badge/ML-PyTorch%20%7C%20NumPy%20%7C%20DeepChem-orange?style=for-the-badge" alt="ML" />
   <img src="https://img.shields.io/badge/Tools-Git%20%7C%20Linux%20%7C%20Vim-lightgrey?style=for-the-badge" alt="Tools" />
 </p>
 
@@ -25,8 +24,3 @@ My primary focus is **Machine Learning Systems** and **DSA**. I enjoy understand
 - **Problem Solving:** Active on [LeetCode](https://leetcode.com/u/FLzyoCR6KG/).
 - **LinkedIn:** [Akshat Raj](https://www.linkedin.com/in/akshat-raj-1b7745310/)
 - **Collaboration:** I'm always open to discussing ML infrastructure and open-source development. Feel free to reach out!
-
----
-<p align="center">
-  <i>"What I cannot create, I do not understand." — Richard Feynman</i>
-</p>
